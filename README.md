@@ -10,7 +10,7 @@ Aquí encontraran un documento con una explicación general histórica de los mo
 
 - Kouemou G. (2011). History and theoretical basics of hidden markov models. En Hiddenmarkov models, theory and applications. InTech. Croacia. (p. 3-26). Editor: DymarskiPrzemyslaw.
 
--Yoon, B. (2009). Hidden Markov Models and their Applications in Biological SequenceAnalysis. Current Genomics, 10, (p. 402-415).
+- Yoon, B. (2009). Hidden Markov Models and their Applications in Biological SequenceAnalysis. Current Genomics, 10, (p. 402-415).
 
 - Chiplunkar K., Kharche M., Chaudhari T., Shaligram S., Limkar S. (2021). Prediction ofPOS tagging for unknown words for specific Hindi and Marathi language. En: Intelligentdata engineering and analytics, Frontiers in intelligent computing, volumen 1177. Springer.(p. 133-143). Editores: Satapathy S., Zhang YD., Bhateja V., Majhi R.
 
